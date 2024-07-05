@@ -63,4 +63,14 @@ Key features of the VPC:
 - cidr_block 
 - tag 
 
-### Creating an aws_subnet 
+Create rest of the resources as shown in main.tf and then use the following commands: 
+
+```
+
+terraform plan
+
+terraform apply
+
+```
+
+You should be able to hit the DNS for loadbalancer and check the balancing with just one click. 
