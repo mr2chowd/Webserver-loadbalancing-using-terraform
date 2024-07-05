@@ -1,4 +1,4 @@
-# Terraform project on AWS
+# Terraform Load Balancer project in AWS
 
 ## Set up AWS on your CLI
 
